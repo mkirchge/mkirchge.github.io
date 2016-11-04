@@ -16,8 +16,9 @@ html {
     width: 100%;
     height: 100%;
 }
-
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
 #pagetitle {
+
 	color: white;
 	background-color: rgba(0,0,0,0.7);
 	font-family: 'Pacifico', Helvetica, Verdana;
